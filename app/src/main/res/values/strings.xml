@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculatePR</string>
+    <string name="values">"Enter the values "</string>
+</resources>
